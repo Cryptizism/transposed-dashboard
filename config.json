@@ -1,0 +1,7 @@
+{
+    "logging":{
+        "logging": "true",
+        "log_level": "debug",
+        "log_folder": "./logs"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "modules": {
+        "discord": "Discord",
+        "minecraft": "Minecraft"
+    },
+    "enabled_modules": ["discord", "minecraft"]
+}
